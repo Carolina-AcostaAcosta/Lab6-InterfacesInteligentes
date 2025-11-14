@@ -10,4 +10,6 @@ Para el desarrollo de esta práctica se ha realizado todo en una única escena, 
 5. Simulación en el Play Mode.
 6. Agrega en la escena dos cubos sobre un plano, uno lejano y otro cercano. El lejano será un Ray Interactor que cambia de color al seleccionarlo. El cercano será un Direct Interactor que muestra un mensaje en consola al agarrarlo.
 
-[Gif del ejercicio ejecutándose](images/ejercicio.gif)
+![Gif del ejercicio ejecutándose](images/ejercicio.gif)
+
+He conseguido que funcione la simulación, pero he tenido problemas conectando los eventos a los interactuables (los cubos) y los interactores (el de ray y el direct).
